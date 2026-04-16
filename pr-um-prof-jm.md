@@ -1,1 +1,1 @@
-Arquivo destinado para fazer o passo a passo de usar a PR no projeto - jose-mateus inseriu conteúdo na linha 1. 
+Apagando linha completa, tentando novamente causar conflito, usuário josé mateus
