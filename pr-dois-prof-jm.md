@@ -1,1 +1,1 @@
-Alterando linha 1 pelo Ettore Zanini, esperando causar conflito
+Alterando linha 1 pelo Ettore Zanini, esperando causar conflito - alteração realizada pelo Ettore Zanini na linha 1 e 2
